@@ -1,2 +1,2 @@
 # alpha-i18n
-Translations for ALpha bot
+Translations for Alpha bot
