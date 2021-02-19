@@ -1,0 +1,11 @@
+{
+    "cmdOnCooldown":"Sorry but this command is on cooldown. Please try again in {}",
+    "cmdMissingRole":"Sorry, but you are missing one or more roles to use this command.",
+    "messageSent":"Message sent",
+    "msgSendFailed":"Failed to send message",
+    "qryProcessFail": "Sorry but I can not process your query.",
+    "msgViolation":"Hello, we have detected that you did not delete your {} previous recruitment messages, before posting the latest one.\nThis is a violation of our static recruitment posting rules.\nAs a consequence, you have been put to Rulereader and your message has been deleted.\nShould you have any concern about this punishment, please message <@630793555111313409>",
+    "roleAssignment":"Roles assigned to you:\n{}",
+    "roleRemoval":"Roles removed from you:\n{}"
+
+}
